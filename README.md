@@ -10,7 +10,7 @@ This project uses Spring Boot and Spring WebFlux for fast and efficient performa
 - **Text Generation**: Generate creative text based on a given prompt using advanced AI models.
 - **Image Generation**: Generate images from text prompts with the help of AI models.
 - **Swagger UI**: Interactive API documentation to easily test and interact with the app's API endpoints.
-- **Reactive and Scalable**: Built with Spring WebFlux, the app can handle multiple requests asynchronously, making it efficient for large-scale use.
+- **Reactive**: Built with Spring WebFlux, the app can handle multiple requests asynchronously, making it efficient.
 
 ## 🛠 Technologies Used
 
